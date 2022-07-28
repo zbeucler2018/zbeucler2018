@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zack Beucler</h1>
-<h3 align="center">I am a computer geek who loves AI, ML, and automation</h3>
+<h3 align="center">Computer guy who loves AI, ML, and automation</h3>
 
 - 🌱 I’m currently learning **Keras and Rust**
 
