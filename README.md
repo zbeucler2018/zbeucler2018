@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zack Beucler</h1>
 
-- 🌱 I’m currently learning **Keras and Rust**
+- 🌱 I’m currently learning **Reinforcement Learning and C++**
 
 - 📫 How to reach me **zbeucler@gmail.com**
 
